@@ -115,6 +115,9 @@ My education includes a BSc in Chemistry from a UK Russell Group university. I'v
 
 ---
 ## Contact
+
+If you'd like to get in touch with me, please feel free to send an email and I'll get back to you :)
+
 [josh.go.work@gmail.com](mailto:josh.go.work@gmail.com)
 
 © 2025 joshwalong
