@@ -5,8 +5,6 @@ I'm a developer from the UK, currently based in NZ/APAC. I've authored and worke
 
 I also work on SaaS products and web applications with modern web frameworks like React, Next.js, Tailwind CSS and more. Recently I've worked on a media sharing platform for events and various SaaS products. These have involved integrations with third-party services and APIs like Stripe, Supabase, OpenAI, n8n, Metabase, Openstreetmap and more. 
 
-Though I am more of a backend developer, I also enjoy working on the frontend because I am obsessed with user experience and like to make products more intuitive and user-friendly. I contribute to open source and have many personal projects to solve problems that my friends and family face.
-
 ## Open Source
 
 I'm a big fan of the open source ethos and have authored and contributed to multiple projects, most notably xrpl-go, a Go library for the Ripple (XRP) Ledger blockchain. The XRPL is a top 5 blockchain network in terms of market cap and is one of the oldest and most established networks. I worked on the binary codec which allows you to encode and decode binary data to and from the XRPL, the address codec which allows you to encode and decode addresses to human readable format, keypairs which handles generating and managing keypairs for accounts and signing transactions, jsonrpc client and websocket client which allows you to interact with the XRPL network and the test suite. The project is now owned by the XRPL Foundation at [https://github.com/XRPLF/xrpl-go](https://github.com/XRPLF/xrpl-go).
@@ -15,6 +13,9 @@ I've also authored SDKs and CLI tools for open weather APIs.
 
 ## Personal Projects
 
+I love solving real world problems and I'm always on the lookout for how to make things more efficient and identifying gaps in the market.
+
+---
 I created a weather forecasting app to better plan hiking and skiing in New Zealand because my friends and I complained so much about forecast accuracy - we all find it way more reliable and accurate than the weather apps we used before. 
 
 ![weather.png](weather.png)
@@ -33,13 +34,8 @@ I made a simple web app for my partner and I to keep track of bank savings rates
 
 ---
 
-Note: For my personal projects, if I can achieve my goal with vanilla JS/HTML/CSS, I will use that every time because it's faster to develop and more maintainable.
+Note: For my personal projects, if I can achieve my goal with vanilla JS/HTML/CSS, I will use that every time as it's cheap to host, faster to develop, quicker time to first bite and more maintainable because there are less dependencies to manage.
 
-## Education
-
-My education includes a BSc in Chemistry from a UK Russell Group university. I've always been interested in science and technology and this degree gave me a solid foundation in technical communication and approaches to problem solving. In my final year I designed a 3 step method to produce an organic chemical with applications in cancer research and successfully synthesised the compound in the lab.
-
-![chemistry.png](chemistry.png)
 
 ## Career Progression
 
@@ -57,8 +53,13 @@ I'm currently a developer in a small team working on SDKs, CLI tools and SaaS pr
 ### Previous Roles (2020 - 2021)
 
 ---
+## Education
 
+My education includes a BSc in Chemistry from a UK Russell Group university. I've always been interested in science and technology and this degree gave me a solid foundation in technical communication and approaches to problem solving. In my final year I designed a 3 step method to produce an organic chemical with applications in cancer research and successfully synthesised the compound in the lab.
 
+![chemistry.png](chemistry.png)
+
+---
 ## Skills
 
 | **Programming Languages & Core Technologies** | **DevOps & Infrastructure** | **AI & Development Assistance** |
