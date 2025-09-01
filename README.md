@@ -1,7 +1,3 @@
----
-title: "Josh - Developer"
----
-
 Hi, I’m Josh.
 
 ## About Me
