@@ -17,19 +17,19 @@ I've also authored SDKs and CLI tools for open weather APIs.
 
 I created a weather forecasting app to better plan hiking and skiing in New Zealand because my friends and I complained so much about forecast accuracy - we all find it way more reliable and accurate than the weather apps we used before. 
 
-![weather.png] (weather.png)
+![weather.png](weather.png)
 
 ---
 
 I made a dashboard app for my grandmother to track all of her bills and payments on her iPad in a way that isn't overwhelming. 
 
-![bills.png] (bills.png)
+![bills.png](bills.png)
 
 ---
 
 I made a simple web app for my partner and I to keep track of bank savings rates and signing on bribes - it tells us where to put our money to get the best return for the next 12 months. We've earned thousands from the switch bribes alone! I'm always looking for ways to reduce friction and take advantage of automation to grab opportunities while they are available.
 
-![switch.png] (switch.png)
+![switch.png](switch.png)
 
 ---
 
@@ -39,7 +39,7 @@ Note: For my personal projects, if I can achieve my goal with vanilla JS/HTML/CS
 
 My education includes a BSc in Chemistry from a UK Russell Group university. I've always been interested in science and technology and this degree gave me a solid foundation in technical communication and approaches to problem solving. In my final year I designed a 3 step method to produce an organic chemical with applications in cancer research and successfully synthesised the compound in the lab.
 
-![chemistry.png] (chemistry.png)
+![chemistry.png](chemistry.png)
 
 ## Career Progression
 
