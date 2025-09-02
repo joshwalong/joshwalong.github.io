@@ -23,10 +23,12 @@ I've also authored SDKs and CLI tools for open weather APIs.
 
 ## Personal Projects
 
-I love solving real world problems and I'm always on the lookout for how to make things more efficient, identifying gaps in the market.
+Solving real world problems is something I love to do and I'm always on the lookout for how to make things more efficient, identifying gaps in the market.
 
 ---
-I created a weather forecasting app to better plan hiking and skiing in New Zealand because my friends and I complained so much about forecast accuracy - we all find it way more reliable and accurate than the weather apps we used before. 
+My friends and I were constantly complaining about unreliable weather forecasts affecting our hiking and skiing plans. So I created a weather forecasting app which we all find way more reliable and accurate than what we used before.
+
+This involved tapping into open source weather APIs, creating some custom metrics and making a visually appealing interface.
 
 ![weather.png](weather.png)
 
@@ -38,7 +40,9 @@ I made a dashboard app for my grandmother to track all of her bills and payments
 
 ---
 
-I made a simple web app for my partner and I to keep track of bank savings rates and signing on bribes - it tells us where to put our money to get the best return for the next 12 months. We've earned thousands from the switch bribes alone! I'm always looking for ways to reduce friction and take advantage of automation to grab opportunities while they are available.
+In order to earn money passively I built a simple web app to track bank bribes and savings rates. My partner and I use it because it tells us where to put our money to get the best return for the next 12 months. We've earned thousands from the switch bribes alone! 
+
+I'm always looking for ways to reduce friction and take advantage of automation to grab opportunities while they are available.
 
 ![switch.png](switch.png)
 
@@ -84,9 +88,9 @@ Aside from product ownership and sales, I organised and delivered a Royal Colleg
 
 #### Laboratory Technician (2015-2016)
 
-I was responsible for conducting experiments and analysing the results to support the research, quality assurance and process optimisation teams.
+My main responsibilities included conducting experiments and analysing the results to support the research, quality assurance and process optimisation teams.
 
-I developed and implemented new testing methods that were vital for acceptance testing of a new production line. This also required me to lead a cross-functional team from the manufacturing, R&D and QA departments.
+During my time in this position, I developed and implemented new testing methods that were vital for factory acceptance testing of a new manufacturing production line. This also required me to lead a cross-functional team from the manufacturing, R&D and QA departments.
 
 ---
 ## Education
