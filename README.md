@@ -80,7 +80,7 @@ It was fast paced and required strong problem-solving and communication skills u
 
 In this role, I was responsible for introducing an innovative new product to the market and developing a sales pipeline for it. This required me to conduct technical demonstrations, presentations and training to prospective clients and our sales team. I also worked closely with prospects to understand their needs and translate them into technical requirements for the product - which also informed how to position the product in the market.
 
-My other responsibilites included sales, business development, CRM, live technical support and more.
+My other responsibilities included sales, business development, CRM, live technical support and more.
 
 Aside from product ownership and sales, I organised and delivered a Royal College accredited surgical skills course for trainee surgeons in the UK.
 
