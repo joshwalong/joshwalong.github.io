@@ -7,7 +7,11 @@ I also work on SaaS products and web applications with modern web frameworks lik
 
 ## Open Source
 
-I'm a big fan of the open source ethos and have authored and contributed to multiple projects, most notably xrpl-go, a Go library for the Ripple (XRP) Ledger blockchain. The XRPL is a top 5 blockchain network in terms of market cap and is one of the oldest and most established networks. I worked on the binary codec which allows you to encode and decode binary data to and from the XRPL, the address codec which allows you to encode and decode addresses to human readable format, keypairs which handles generating and managing keypairs for accounts and signing transactions, jsonrpc client and websocket client which allows you to interact with the XRPL network and the test suite. The project is now owned by the XRPL Foundation.
+I'm a big fan of the open source ethos and have authored and contributed to multiple projects, most notably xrpl-go, a Go library for the Ripple (XRP) Ledger blockchain. The XRPL is a top 5 blockchain network in terms of market cap and is one of the oldest and most established networks. 
+
+For this project I was the feature lead and main contributor to the codebase. I organised the project plan, ticket creation, ensuring we met targets and generally oversaw the development.
+
+In terms of code, I worked on the binary codec which allows you to encode and decode binary data to and from the XRPL, the address codec which allows you to encode and decode addresses to human readable format, keypairs which handles generating and managing keypairs for accounts and signing transactions, jsonrpc client and websocket client which allows you to interact with the XRPL network and the test suite. The project is now owned by the XRPL Foundation.
 
 [![xrpl.png](xrpl.png)](https://github.com/XRPLF/xrpl-go)
 
