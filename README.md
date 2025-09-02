@@ -3,7 +3,7 @@ Hi, I’m Josh.
 ## About Me
 I'm a developer from the UK, currently based in NZ/APAC. I've authored and worked on blockchain network libraries, SDKs, CLI tools, wallet clients, weather APIs and much more with Golang. My focus is on building robust systems that are easy to maintain and scale. I take a pragmatic test-driven approach, ensuring that I thoroughly understand the problems and don't overengineer the solutions.
 
-I also work on SaaS products and web applications with modern web frameworks like React, Next.js, Tailwind CSS and more. Recently I've worked on a media sharing platform for events and various SaaS products. These have involved integrations with third-party services and APIs like Stripe, Supabase, OpenAI, n8n, Metabase, Openstreetmap and more. 
+I also work on SaaS products and web applications with modern web frameworks like React, Next.js, Tailwind CSS and more. Recently I've worked on a media sharing platform for events. These have involved integrations with third-party services and APIs like Stripe, Supabase, OpenAI, n8n, Metabase, Openstreetmap and more. 
 
 ## Open Source
 
