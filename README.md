@@ -17,7 +17,7 @@ Then I worked on keypairs which handles generating and managing keypairs for acc
 
 The project is now owned by the XRPL Foundation.
 
-[![xrpl.png](xrpl.png)](https://github.com/XRPLF/xrpl-go)
+[![xrpl.webp](xrpl.webp)](https://github.com/XRPLF/xrpl-go)
 
 I've also authored SDKs and CLI tools for open weather APIs.
 
@@ -30,13 +30,13 @@ My friends and I were constantly complaining about unreliable weather forecasts 
 
 This involved tapping into open source weather APIs, creating some custom metrics and making a visually appealing interface.
 
-![weather.png](weather.png)
+![weather.webp](weather.webp)
 
 ---
 
 I made a dashboard app for my grandmother to track all of her bills and payments on her iPad in a way that isn't overwhelming. 
 
-![bills.png](bills.png)
+![bills.webp](bills.webp)
 
 ---
 
@@ -44,7 +44,7 @@ In order to earn money passively I built a simple web app to track bank bribes a
 
 I'm always looking for ways to reduce friction and take advantage of automation to grab opportunities while they are available.
 
-![switch.png](switch.png)
+![switch.webp](switch.webp)
 
 ---
 
@@ -97,7 +97,7 @@ During my time in this position, I developed and implemented new testing methods
 
 My education includes a BSc in Chemistry from a UK Russell Group university. I've always been interested in science and technology and this degree gave me a solid foundation in technical communication and approaches to problem solving. In my final year I designed a 3 step method to produce an organic chemical with applications in cancer research and successfully synthesised the compound in the lab.
 
-![chemistry.png](chemistry.png)
+![chemistry.webp](chemistry.webp)
 
 ---
 ## Skills
