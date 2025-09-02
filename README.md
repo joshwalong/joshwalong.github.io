@@ -11,9 +11,9 @@ I'm a big fan of the open source ethos and have authored and contributed to mult
 
 For this project I secured funding and was the feature lead and main contributor to the codebase. I organised the project plan and ticket creation, ensuring we met targets, generally overseeing the development.
 
-In terms of code, I worked on the binary codec which allows you to encode and decode binary data to and from the XRPL and the address codec which allows you to encode and decode addresses to human readable format.
+In terms of code, I worked on the binary codec which allows users to encode and decode binary data to and from the XRPL and the address codec which allows users to encode and decode addresses to human readable format.
 
-Then I worked on keypairs which handles generating and managing keypairs for accounts and signing transactions, jsonrpc client and websocket client which allows you to interact with the XRPL network and the test suite. 
+Then I worked on keypairs which handles generating and managing keypairs for accounts and signing transactions, jsonrpc client and websocket client which allows users to interact with the XRPL network and the test suite. 
 
 The project is now owned by the XRPL Foundation.
 
